@@ -10,3 +10,26 @@ I'm passionate about technology, problem-solving, and building meaningful projec
 - 🚀 Always learning, experimenting, and building.
 
 
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,sqlite,vscode" />
+</p>
+
+**Currently Exploring**
+
+- Generative AI
+- Google Gemini API
+- AI-powered applications
+- Document processing and RAG systems
+
