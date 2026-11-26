@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="profile-banner.png" width="100%" alt="Vibhaw Tripathi - Profile Banner"/>
+</p>
+
+
 # Hi, I'm Vibhaw Tripathi 👋
 
 ### Aspiring Software Developer | Exploring Artificial Intelligence
