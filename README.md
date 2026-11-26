@@ -55,11 +55,18 @@ An intelligent document assistant that allows users to upload PDF manuals and do
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vibhaw-Tripathi&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhaw-Tripathi&layout=compact&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vibhaw-Tripathi&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true&theme=transparent" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhaw-Tripathi&layout=compact&langs_count=6&hide_border=true&theme=transparent" />
 </p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Vibhaw-Tripathi&hide_border=true&theme=default" />
+</p>
+
+---
+
 
 
