@@ -33,3 +33,24 @@ I'm passionate about technology, problem-solving, and building meaningful projec
 - AI-powered applications
 - Document processing and RAG systems
 
+---
+
+## 🚀 Featured Projects
+
+### 📘 ManualIQ — AI-Powered Document Assistant
+
+An intelligent document assistant that allows users to upload PDF manuals and documents, then ask questions in natural language to receive relevant, document-grounded answers.
+
+**Key Features**
+- Upload and process PDF documents.
+- Ask questions and receive AI-generated answers.
+- Retrieve information from uploaded documents.
+- Generate document summaries.
+- Compare multiple documents.
+- Maintain document history and storage.
+
+**Tech Stack:** Python · Streamlit · Google Gemini API · PyMuPDF · SQLite
+
+---
+
+
