@@ -68,5 +68,25 @@ An intelligent document assistant that allows users to upload PDF manuals and do
 
 ---
 
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Vibhaw-Tripathi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
+
+
 
 
